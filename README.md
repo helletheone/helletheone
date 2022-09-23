@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working new Plattftorm for k8s<br>👯 I’m looking to collaborate on Open-Source Projects<br>🌱 I’m currently learning GO and Javascript<br>
+🔭 I’m currently working for a new Plattftorm for k8s<br>👯 I’m looking to collaborate on Open-Source Projects<br>🌱 I’m currently learning GO and Javascript<br>
 
 
 # 💻 Tech Stack:
